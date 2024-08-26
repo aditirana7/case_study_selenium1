@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Browser_commands_2_TestNg.Edge_Browser_3_testng">
+      <class name="Drop_down_casestudy.Facebook_page">
         <methods>
-          <include name="EdgeBroswerLaunch"/>
+          <include name="Dropdown1"/>
         </methods>
-      </class> <!-- Browser_commands_2_TestNg.Edge_Browser_3_testng -->
+      </class> <!-- Drop_down_casestudy.Facebook_page -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
