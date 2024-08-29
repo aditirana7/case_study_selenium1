@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Drop_down_casestudy.Facebook_page">
+      <class name="MTV22.in_motion_hosting">
         <methods>
-          <include name="Dropdown1"/>
+          <include name="example"/>
         </methods>
-      </class> <!-- Drop_down_casestudy.Facebook_page -->
+      </class> <!-- MTV22.in_motion_hosting -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
